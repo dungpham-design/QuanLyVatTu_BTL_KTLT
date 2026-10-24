@@ -1,0 +1,5 @@
+NCC01|Cong ty TNHH Vien Thong A|So 10 Tran Duy Hung, Ha Noi|0912345678
+NCC02|Tap doan Cong nghe VNPT|So 57 Huynh Thuc Khang, Ha Noi|0988776655
+NCC03|Cong ty Co phan Thiet bi Mang Viettel|Ton Duc Thang, TP.HCM|0903123456
+NCC04|Cong ty TNHH Giai Phap Mang FPT|So 8 Ton That Thuyet, Ha Noi|0934567890
+NCC05|Cong ty Co phan Dau tu Cong nghe CMC|Duy Tan, Ha Noi|0976543210
